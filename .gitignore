@@ -1,0 +1,6 @@
+twilio.env
+fbchat.env
+fbchat_session
+update_path.sh
+Pipfile.lock
+.idea/
